@@ -1,2 +1,3 @@
 # Hello_World
-My First Repository
+
+I am Sanskar Gupta, b.tech student currently studying at IIT Mandi. I love Competitive Programming.
